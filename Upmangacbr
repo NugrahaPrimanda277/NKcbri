@@ -5,11 +5,11 @@
   "author": "Akihiko Higuchi",
   "cover": "https://i.imgur.com/jw9pT1M.jpg",
   "chapters": {
-    "<1>": {
-      "title": "<chapter name>",
-      "volume": "<1>",
+    "1": {
+      "title": "Prolog",
+      "volume": "1",
       "groups": {
-        "<NKCbri>": "/proxy/api/imgur/chapter/B926c49/"
+        "NKCbri": "/proxy/api/imgur/chapter/B926c49/"
       },
       "last_updated": "1634138651"
     }
